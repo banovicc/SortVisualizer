@@ -1,0 +1,2 @@
+C:\Users\Ivan\Desktop\SortVisualizer\x64\Debug\SortVisualizer.exe
+C:\Users\Ivan\Desktop\banansplit\x64\Debug\SortVisualizer.exe
